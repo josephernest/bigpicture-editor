@@ -13,7 +13,7 @@ function createWindow () {
   mainWindow = new BrowserWindow({width: 1000, height: 700, frame: false})
 
   // and load the index.html of the app.
-  mainWindow.loadURL(`file://${__dirname}/bigpicture-standalone.html`)
+  mainWindow.loadURL(`file://${__dirname}/bigpicture-editor.html`)
 
   //mainWindow.webContents.openDevTools();
 
