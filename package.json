@@ -8,7 +8,6 @@
   "keywords": ["bigpicture"],
   "author": "JosephErnest",
   "license": "MIT",
-  "bugs": { "url": "" },
   "homepage": "",
   "devDependencies": { "electron-prebuilt": "^1.2.0" }
 }
