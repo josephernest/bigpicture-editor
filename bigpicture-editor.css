@@ -1,0 +1,64 @@
+body, html { margin: 0; }
+
+#bigpicture-container {
+  overflow: hidden;
+  position: fixed;
+  min-height: 100%;   
+  min-width: 100%;    
+  background: #D0D0D0;
+  -webkit-font-smoothing: antialiased;
+}
+
+#bigpicture {
+  position: absolute;
+}
+
+.text {
+  font-family: "Arial";
+  line-height: 1.1;
+  outline: 0;
+  position: absolute;
+  min-width: 2px;
+  cursor: text;
+  word-wrap: break-word;
+  white-space: pre;
+  transition-duration: inherit;
+}
+
+.notransition {
+  transition-duration: 0s; 
+}
+
+.noselect {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+}
+
+#close { 
+  position: fixed; 
+  right: 0px; 
+  z-index: 10; 
+  width: 30px; 
+  height: 30px; 
+  text-align: center; 
+  padding-top: 6px; 
+  cursor: default; 
+  -webkit-user-select: none; 
+  -khtml-user-select: none; 
+  user-select: none; 
+}
+
+#search { 
+  position: fixed; 
+  bottom: 1px; 
+  z-index: 10; 
+  width: 200px; 
+  display: none; 
+}
+
+#close:hover { 
+  background-color: #ff9899; 
+  color: white; 
+}

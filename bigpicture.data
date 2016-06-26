@@ -1,0 +1,17 @@
+<div id="bigpicture" data-zoom="1" data-x="0" data-y="0" spellcheck="false">
+
+<div contenteditable="true" class="text" data-size="14" data-x="20" data-y="20">
+Welcome to BigPicture !
+
+BigPicture is a notepad, in which you can pan and zoom 
+infinitely many times. Just click anywhere and write !
+You can now delete this text and start writing your own things !
+
+* Pan : click and drag
+* Zoom in : PageDown or CTRL+ or mousewheel or double-click 
+* Zoom out : PageUp or CTRL- or mousewheel or CTRL+double-click
+* Search : F3 or CTRL+F
+* Move text : CTRL+click and drag
+* See the big picture : F2
+</div>
+</div>
