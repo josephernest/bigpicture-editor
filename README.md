@@ -10,7 +10,7 @@ This desktop application is based on [bigpicture.js](http://github.com/josephern
 Ready-to-use package
 ----
 
-Here you can get Windows package : [BigPictureEditor_1.00.zip](http://bigpicture.bi/bigpictureeditor_1.00.zip)
+Here you can get Windows package : [BigPictureEditor_1.00.zip](http://bigpictu.re/files/bigpictureeditor_1.00.zip)
 
 How to build
 ----
